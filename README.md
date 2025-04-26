@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-<a href="https://github.com/smitrangapariya" target="_blank">
+<a href="https://github.com/Smitrangpariya" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/smit-rangapariya/" target="_blank">
