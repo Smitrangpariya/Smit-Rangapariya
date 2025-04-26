@@ -35,14 +35,6 @@
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" height="50" /></a>
 </div>
 
-###
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitrangapariya&show_icons=true&locale=en&layout=compact" alt="smitrangapariya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitrangapariya&show_icons=true&locale=en" alt="smitrangapariya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitrangapariya&" alt="smitrangapariya" /></p>
-
 <h2 align="left">Connect with Me</h2>
 
 ###
