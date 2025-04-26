@@ -13,7 +13,7 @@
 - 🎓 I'm currently pursuing MCA at **Sheshadripuram College, Bengaluru**  
 - 📚 I'm currently learning Backend Development  
 - ❓ Ask me about anything related to the **MERN stack** and related technologies  
-- 📫 How to reach me: **darshankalsariya29@gmail.com**  
+- 📫 How to reach me: **smitrangpariya@gmail.com**  
 - 🔭 I’m currently working with **ReactJS, NextJS, React Native, NodeJS, Firebase, MongoDB**  
 - ⚡ Fun fact: *Writing code is the closest thing we have to magic—except the bugs are like mischievous gremlins!*  
 
