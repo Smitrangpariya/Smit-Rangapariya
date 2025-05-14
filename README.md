@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Smit Rangapariya</h1>
 
-<p align="left">I am Smit, a Backend Web Developer and MCA student based in Bengaluru, Karnataka.</p>
+<p align="left">I am Smit, a Backend Developer and MCA student based in Bengaluru, Karnataka.</p>
 
 ###
 
